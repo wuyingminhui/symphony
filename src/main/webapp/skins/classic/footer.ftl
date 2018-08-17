@@ -39,15 +39,15 @@
                 <a href="${servePath}/statistic">${dataStatLabel}</a>
 
                 <div class="fn-right">&COPY; ${year}
-                    <a rel="copyright" href="https://hacpai.com" target="_blank">hacpai.com</a>
-                    ${visionLabel}</div>
+                    <a rel="copyright" href="http://imondo.io/" target="_blank">imondo.io/</a>
+                    里世界</div>
             </div>
             <div class="fn-clear ft-smaller">
                        ${sloganLabel}
                     <div class="fn-right">
-                       Powered by <a href="https://b3log.org" target="_blank">B3log 开源</a> •
-                            <a href="https://sym.b3log.org" target="_blank">Sym</a>
-                            ${version} • ${elapsed?c}ms
+                       Powered by <a href="http://imondo.io/" target="_blank">imondo.io</a> •
+                            <a href="http://imondo.io" target="_blank">imondo</a>
+                            • ${elapsed?c}ms
                     </div>
                 </div>
         </div>
