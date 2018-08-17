@@ -20,9 +20,7 @@
 <div class="nav">
     <h1 aria-label="${symphonyLabel}" class="tooltipped tooltipped-s">
         <a href="${servePath}">
-            <svg>
-                <img src="${staticServePath}/images/logo/imondo_logo.png" style="width: 140px">
-            </svg>
+           <img src="${staticServePath}/images/logo/imondo_logo.png" style="width: 140px">
         </a>
     </h1>
     <div class="nav-tabs">
