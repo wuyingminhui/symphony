@@ -21,7 +21,7 @@
     <h1 aria-label="${symphonyLabel}" class="tooltipped tooltipped-s">
         <a href="${servePath}">
             <svg>
-                <use xlink:href="#logo"></use>
+                <img src="${staticServePath}/images/logo/imondo_logo.png" style="width: 140px">
             </svg>
         </a>
     </h1>
