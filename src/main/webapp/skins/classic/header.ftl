@@ -20,7 +20,7 @@
 <div class="nav">
     <h1 aria-label="${symphonyLabel}" class="tooltipped tooltipped-s">
         <a href="${servePath}">
-            <svg height="48px">
+            <svg height="48px" width="140px">
                 <use xlink:href="#logo"></use>
             </svg>
         </a>
