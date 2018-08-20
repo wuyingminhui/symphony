@@ -21,13 +21,6 @@
     <div class="wrapper">
         <div class="slogan">
             ${indexIntroLabel} &nbsp; &nbsp;
-            <a href="https://github.com/b3log/symphony" target="_blank" class="tooltipped tooltipped-n" aria-label="${siteCodeLabel}">
-                <svg class="icon-github"><use xlink:href="#github"></use></svg></a> &nbsp;
-            <a href="http://weibo.com/u/2778228501" target="_blank" class="tooltipped tooltipped-n" aria-label="${followWeiboLabel}">
-                <svg class="icon-weibo"><use xlink:href="#weibo"></use></svg></a>   &nbsp;
-            <a target="_blank" rel="noopener" class="tooltipped tooltipped-n" aria-label="${joinTelegramLabel}"
-               href="https://t.me/b3log">
-                <svg class="icon-telegram"><use xlink:href="#icon-telegram"></use></svg></a>
         </div>
         <div class="fn-flex-1">
             <div class="footer-nav fn-clear">
