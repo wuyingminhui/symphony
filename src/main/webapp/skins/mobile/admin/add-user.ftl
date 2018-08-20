@@ -36,8 +36,15 @@
                 <label>${passwordLabel}</label>
                 <input name="userPassword" type="text" />
 
-                <label><input name="userAppRole" type="radio" value="0" checked="checked" /> ${programmerLabel}&nbsp;&nbsp;</label>
-                <label><input name="userAppRole" type="radio" value="1" /> ${designerLabel}</label>
+
+                <label><input name="userAppRole" type="radio" value="2" checked="checked" /> ${naigeLabel}&nbsp;&nbsp;</label>
+                <label><input name="userAppRole" type="radio" value="0" /> ${oldjiucaiLabel}</label>
+                <label><input name="userAppRole" type="radio" value="1" /> ${newjiucaiLabel}</label>
+                <label><input name="userAppRole" type="radio" value="3" /> ${naiwangLabel}</label>
+                <label><input name="userAppRole" type="radio" value="4" /> ${programmerLabel}</label>
+                <label><input name="userAppRole" type="radio" value="5" /> ${chuangyeLabel}</label>
+                <label><input name="userAppRole" type="radio" value="6" /> ${LiandaoLabel}</label>
+                <label><input name="userAppRole" type="radio" value="7" /> ${OtherqitaLabel}</label>
 
                 <br/><br/><br/>
                 <button type="submit" class="green fn-right">${submitLabel}</button>

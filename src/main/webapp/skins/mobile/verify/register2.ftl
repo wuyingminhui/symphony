@@ -51,8 +51,15 @@
                         </div>
                         <div class="fn-clear">
                             <label>${roleLabel}</label>
-                            <label>&nbsp;&nbsp;&nbsp;&nbsp;<input name="userAppRole" type="radio" value="0" checked="checked" />&nbsp;&nbsp;${programmerLabel}</label>
-                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="1" />&nbsp;&nbsp;${designerLabel}</label>
+
+                            <label>&nbsp;&nbsp;&nbsp;&nbsp;<input name="userAppRole" type="radio" value="2" checked="checked" />&nbsp;&nbsp;${naigeLabel}</label>
+                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="0" />&nbsp;&nbsp;${oldjiucaiLabel}</label>
+                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="1" />&nbsp;&nbsp;${newjiucaiLabel}</label>
+                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="3" />&nbsp;&nbsp;${naiwangLabel}</label>
+                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="4" />&nbsp;&nbsp;${programmerLabel}</label>
+                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="5" />&nbsp;&nbsp;${chuangyeLabel}</label>
+                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="6" />&nbsp;&nbsp;${LiandaoLabel}</label>
+                            <label style="float:right">&nbsp;&nbsp;<input name="userAppRole" type="radio" value="7" />&nbsp;&nbsp;${OtherqitaLabel}</label>
 
                         </div>
                         <div id="registerTip2" class="tip"></div>

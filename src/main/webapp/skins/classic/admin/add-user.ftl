@@ -44,8 +44,14 @@
                     <label>
                         <div>${roleLabel}</div>
                         <select id="domainNav" name="domainNav">
-                            <option value="0">${programmerLabel}</option>
-                            <option value="1">${designerLabel}</option>
+                            <option value="0">${oldjiucaiLabel}</option>
+                            <option value="1">${newjiucaiLabel}</option>
+                            <option value="2">${naigeLabel}</option>
+                            <option value="3">${naiwangLabel}</option>
+                            <option value="4">${programmerLabel}</option>
+                            <option value="5">${chuangyeLabel}</option>
+                            <option value="6">${LiandaoLabel}</option>
+                            <option value="7">${OtherqitaLabel}</option>
                         </select>
                     </label>
                     <label class="mid"></label>
