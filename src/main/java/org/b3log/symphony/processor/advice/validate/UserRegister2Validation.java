@@ -92,8 +92,8 @@ public class UserRegister2Validation extends BeforeRequestProcessAdvice {
 
         final int appRole = requestJSONObject.optInt(UserExt.USER_APP_ROLE);
         final String password = requestJSONObject.optString(User.USER_PASSWORD);
-        checkField(UserExt.USER_APP_ROLE_C_HACKER != appRole
-                && UserExt.USER_APP_ROLE_C_PAINTER != appRole, "registerFailLabel", "invalidAppRoleLabel");
+        // checkField(UserExt.USER_APP_ROLE_C_HACKER != appRole
+        //         && UserExt.USER_APP_ROLE_C_PAINTER != appRole, "registerFailLabel", "invalidAppRoleLabel");
         checkField(invalidUserPassword(password), "registerFailLabel", "invalidPasswordLabel");
     }
 
