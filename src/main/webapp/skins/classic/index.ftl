@@ -110,7 +110,7 @@
                                 </a>
                             </div>
                             <div class="metro-item">
-                                h<a class="preview" href="${servePath}/tag/${tag3.tagURI}">
+                                <a class="preview" href="${servePath}/tag/${tag3.tagURI}">
                                     <img src="${staticServePath}/images/tags/${tag3.tagIconPath}" alt="${tag3.tagTitle}">
                                     <b>${tag3.tagTitle}</b>
                                 </a>
