@@ -489,7 +489,7 @@
 
         <#if discussionViewable>
         <span class="radio-btn" onclick="Comment._toggleReply()"
-              data-hasPermission="${permissions['commonAddComment'].permissionGrant?c}">${cmtLabel}</span>
+              data-hasPermission="${permissions['commonAddComment'].permissionGrant?c}" style="bottom:160px;right:50px;">${cmtLabel}</span>
         </#if>
 
         <#if isLoggedIn && discussionViewable && article.articleCommentable>
