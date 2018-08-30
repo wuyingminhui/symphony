@@ -87,9 +87,14 @@
                     </div>
 
                     <div class="module">
-                        <div class="module-header form">
-                            <input id="breezemoonInput" type="text" class="comment__text breezemoon__input" placeholder="清风明月">
-                            <span id="breezemoonPostBtn" class="btn breezemoon__btn">发布</span>
+                        <div class="list">
+                            <ul class="form">
+                                <li>
+                                    <input id="breezemoonInput" type="text" style="padding-right: 89px;">
+                                    <button onclick="Breezemoon.add()" id="breezemoonBtn"  data-csrftoken="${csrfToken}"
+                                            class="absolute">${breezemoonLabel}</button>
+                                </li>
+                            </ul>
                         </div>
                         <div class="module-panel">
                             <ul class="module-list">
