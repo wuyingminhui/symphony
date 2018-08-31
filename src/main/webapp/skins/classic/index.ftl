@@ -143,25 +143,25 @@
                         </div>
 
                         <div class="metro-line fn-flex">
-                            <div class="metro-item-a" style="width:250px;height:250pxflex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
+                            <div class="metro-item-a" style="width:250px;height:250px;flex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
                                 <a class="preview" href="https://www.helloeos.com.cn">
                                     <img src="./images/tags/helloeos.jpg" alt="helloeos">
                                     <b>HelloEOS</b>
                                 </a>
                             </div>
-                            <div class="metro-item-a" style="width:250px;height:250pxflex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
+                            <div class="metro-item-a" style="width:250px;height:250px;flex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
                                 <a class="preview" href="https://www.more.top">
                                     <img src="./images/tags/logo_more.png" alt="more">
                                     <b>more</b>
                                 </a>
                             </div>
-                            <div class="metro-item-a" style="width:250px;height:250pxflex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
+                            <div class="metro-item-a" style="width:250px;height:250px;flex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
                                 <a class="preview" href="https://www.imeos.one">
                                     <img src="./images/tags/imeos.jpg" alt="imeos">
                                     <b>IMEOS</b>
                                 </a>
                             </div>
-                            <div class="metro-item-a" style="width:250px;height:250pxflex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
+                            <div class="metro-item-a" style="width:250px;height:250px;flex:1;text-align:center;overflow: hidden;position: relative;margin-right: 2px;margin-bottom: 2px;">
                                 <a class="preview" href="https://www.8btc.com">
                                     <img src="./images/tags/babite.jpg" alt="babite">
                                     <b>巴比特</b>
