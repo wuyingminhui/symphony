@@ -112,6 +112,39 @@
                             </div>
                             <div class="metro-item">
                                 <a class="preview" href="${servePath}/tag/${tag3.tagURI}">
+                                    <img src="${staticServePath}/images/tags/${tag3.tagIconPath}" alt="${tag3.tagTitle}">
+                                    <b>${tag3.tagTitle}</b>
+                                </a>
+                            </div>
+                            <div class="metro-item">
+                                <a class="preview" href="${servePath}/tag/${tag4.tagURI}">
+                                    <img src="${staticServePath}/images/tags/${tag4.tagIconPath}" alt="${tag4.tagTitle}">
+                                    <b>${tag4.tagTitle}</b>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="metro-line fn-flex">
+                            <div class="metro-item">
+                                <a class="preview" href="${servePath}/tag/${tag0.tagURI}">
+                                    <img src="${staticServePath}/images/tags/${tag0.tagIconPath}" alt="${tag0.tagTitle}">
+                                    <b>${tag0.tagTitle}</b>
+                                </a>
+                            </div>
+                            <div class="metro-item">
+                                <a class="preview" href="${servePath}/tag/${tag1.tagURI}">
+                                    <img src="${staticServePath}/images/tags/${tag1.tagIconPath}" alt="${tag1.tagTitle}">
+                                    <b>${tag1.tagTitle}</b>
+                                </a>
+                            </div>
+                            <div class="metro-item">
+                                <a class="preview" href="${servePath}/tag/${tag2.tagURI}">
+                                    <img src="${staticServePath}/images/tags/${tag2.tagIconPath}" alt="${tag2.tagTitle}">
+                                    <b>${tag2.tagTitle}</b>
+                                </a>
+                            </div>
+                            <div class="metro-item">
+                                <a class="preview" href="${servePath}/tag/${tag3.tagURI}">
                             
 
                             <div class="module">
