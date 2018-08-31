@@ -143,28 +143,28 @@
                         </div>
 
                         <div class="metro-line fn-flex">
-                            <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag0.tagURI}">
-                                    <img src="${staticServePath}/images/tags/${tag0.tagIconPath}" alt="${tag0.tagTitle}">
-                                    <b>${tag0.tagTitle}</b>
+                            <div class="metro-item" style="width:250px">
+                                <a class="preview" href="https://www.helloeos.com.cn">
+                                    <img src="./images/tags/helloeos.jpg" alt="helloeos">
+                                    <b>HelloEOS</b>
                                 </a>
                             </div>
-                            <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag1.tagURI}">
-                                    <img src="${staticServePath}/images/tags/${tag1.tagIconPath}" alt="${tag1.tagTitle}">
-                                    <b>${tag1.tagTitle}</b>
-                                </a>
-                            </div>
-                            <div class="metro-item">
-                                <a class="preview" href="https://www.imeos.one">
-                                    <img src="${staticServePath}/images/tags/${tag2.tagIconPath}" alt="${tag2.tagTitle}">
-                                    <b>${tag2.tagTitle}</b>
-                                </a>
-                            </div>
-                            <div class="metro-item">
+                            <div class="metro-item" style="width:250px">
                                 <a class="preview" href="https://www.more.top">
-                                    <img src="${staticServePath}/images/tags/${tag3.tagIconPath}" alt="${tag3.tagTitle}">
-                                    <b>${tag3.tagTitle}</b>
+                                    <img src="./images/tags/logo_more.png" alt="more">
+                                    <b>more</b>
+                                </a>
+                            </div>
+                            <div class="metro-item" style="width:250px">
+                                <a class="preview" href="https://www.imeos.one">
+                                    <img src="./images/tags/imeos.jpg" alt="imeos">
+                                    <b>IMEOS</b>
+                                </a>
+                            </div>
+                            <div class="metro-item" style="width:250px">
+                                <a class="preview" href="https://www.8btc.com">
+                                    <img src="./images/tags/babite.jpg" alt="babite">
+                                    <b>巴比特</b>
                                 </a>
                             </div>
                         </div>
