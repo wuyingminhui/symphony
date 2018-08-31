@@ -144,25 +144,25 @@
 
                         <div class="metro-line fn-flex">
                             <div class="metro-item ma" style="width:250px;height:250px">
-                                <a class="preview" href="https://www.helloeos.com.cn">
+                                <a class="preview" href="https://www.helloeos.com.cn" target="_blank">
                                     <img src="./images/tags/helloeos.jpg" alt="helloeos">
                                     <b>HelloEOS</b>
                                 </a>
                             </div>
                             <div class="metro-item ma" style="width:250px;height:250px">
-                                <a class="preview" href="https://www.more.top">
+                                <a class="preview" href="https://www.more.top" target="_blank">
                                     <img src="./images/tags/logo_more.png" alt="more">
                                     <b>more</b>
                                 </a>
                             </div>
                             <div class="metro-item ma" style="width:250px;height:250px">
-                                <a class="preview" href="https://www.imeos.one">
+                                <a class="preview" href="https://www.imeos.one" target="_blank">
                                     <img src="./images/tags/imeos.jpg" alt="imeos">
                                     <b>IMEOS</b>
                                 </a>
                             </div>
                             <div class="metro-item ma" style="width:250px;height:250px">
-                                <a class="preview" href="https://www.8btc.com">
+                                <a class="preview" href="https://www.8btc.com" target="_blank">
                                     <img src="./images/tags/babite.jpg" alt="babite">
                                     <b>巴比特</b>
                                 </a>
