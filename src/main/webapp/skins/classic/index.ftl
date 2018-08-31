@@ -186,6 +186,7 @@
     <script src="${staticServePath}/js/channel${miniPostfix}.js?${staticResourceVersion}"></script>
     <script type="text/javascript">
         $('.metro-item').height($('.metro-item').width());
+        $('.ma').height($('.ma').width());
 
         // tag click
         $('.preview, .index-tabs > span').click(function (event) {
