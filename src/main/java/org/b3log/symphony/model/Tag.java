@@ -340,7 +340,7 @@ public final class Tag {
         String[] tagTitles = tagStr1.split(",");
 
         LOGGER.log(Level.INFO, tagStr1);
-        
+
         tagTitles = Strings.trimAll(tagTitles);
 
         
@@ -359,6 +359,7 @@ public final class Tag {
         final StringBuilder tagsBuilder = new StringBuilder();
         for (final String tagTitle : tagTitles) {
             String title = tagTitle.trim();
+            LOGGER.log(Level.INFO, title);
             if (StringUtils.isBlank(title)) {
                 continue;
             }
