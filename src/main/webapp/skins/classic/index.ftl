@@ -98,7 +98,7 @@
                                     <b>${tag0.tagTitle}</b>
                                 </a>
                                 <#if tag0.tagTitle == "区块链吐槽大会">
-                                    <div>
+                                    <div style="position: absolute;top: 0;width: 64px;">
                                         <img src="./images/tags/hot.png" alt="hot">
                                     </div>
                                 </#if>
@@ -109,7 +109,7 @@
                                     <b>${tag1.tagTitle}</b>
                                 </a>
                                 <#if tag1.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
@@ -120,7 +120,7 @@
                                     <b>${tag2.tagTitle}</b>
                                 </a>
                                 <#if tag2.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
@@ -133,7 +133,7 @@
                                     
                                 </a>
                                 <#if tag3.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
@@ -145,7 +145,7 @@
                                     
                                 </a>
                                 <#if tag4.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
@@ -157,7 +157,7 @@
                                     
                                 </a>
                                 <#if tag5.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
@@ -169,7 +169,7 @@
                                     
                                 </a>
                                 <#if tag6.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
@@ -181,7 +181,7 @@
                                     
                                 </a>
                                 <#if tag7.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
@@ -193,7 +193,7 @@
                                     
                                 </a>
                                 <#if tag8.tagTitle == "区块链吐槽大会">
-                                        <div>
+                                        <div style="position: absolute;top: 0;width: 64px;">
                                             <img src="./images/tags/hot.png" alt="hot">
                                         </div>
                                     </#if>
