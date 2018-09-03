@@ -339,9 +339,11 @@ public final class Tag {
                 replaceAll("；", ",").replaceAll(";", ",");
         String[] tagTitles = tagStr1.split(",");
 
+        LOGGER.log(Level.INFO, tagStr1);
+        
         tagTitles = Strings.trimAll(tagTitles);
 
-        LOGGER.log(Level.INFO, tagTitles);
+        
 
         // deduplication
         final Set<String> titles = new LinkedHashSet<>();
