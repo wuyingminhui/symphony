@@ -365,6 +365,7 @@ public final class Tag {
             }
 
             if (containsWhiteListTags(title)) {
+                LOGGER.log(Level.INFO, 'containsWhiteListTags(title)');
                 tagsBuilder.append(title).append(",");
                 count++;
 
