@@ -172,7 +172,7 @@ public class TagMgmtService {
         final Transaction transaction = tagRepository.beginTransaction();
 
         try {
-            LOGGER.log(Level.ERROR, tagTitle, e);
+            LOGGER.log(Level.INFO, tagTitle);
             if (null != tagRepository.getByTitle(tagTitle)) {
                 throw new ServiceException(langPropsService.get("tagExistLabel"));
             }
