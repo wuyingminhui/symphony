@@ -148,30 +148,30 @@
                             </div>
                         </div>
 
-                        <div style="">
+                        <div style="color: #4285f4;text-align: center;padding: 50px 0px 0px 0px;font-size: 1.4rem;">
                             合作企业
                         </div>
-                        
+
                         <div class="metro-line fn-flex">
-                            <div class="metro-item ma" style="width:250px;height:250px">
+                            <div class="metro-item ma" style="width:200px;height:200px">
                                 <a class="preview" href="https://www.helloeos.com.cn" target="_blank">
                                     <img src="./images/tags/helloeos.jpg" alt="helloeos">
                                     <b>HelloEOS</b>
                                 </a>
                             </div>
-                            <div class="metro-item ma" style="width:250px;height:250px">
+                            <div class="metro-item ma" style="width:200px;height:200px">
                                 <a class="preview" href="https://www.more.top" target="_blank">
                                     <img src="./images/tags/logo_more.png" alt="more">
                                     <b>more</b>
                                 </a>
                             </div>
-                            <div class="metro-item ma" style="width:250px;height:250px">
+                            <div class="metro-item ma" style="width:200px;height:200px">
                                 <a class="preview" href="https://www.imeos.one" target="_blank">
                                     <img src="./images/tags/imeos.jpg" alt="imeos">
                                     <b>IMEOS</b>
                                 </a>
                             </div>
-                            <div class="metro-item ma" style="width:250px;height:250px">
+                            <div class="metro-item ma" style="width:200px;height:200px">
                                 <a class="preview" href="https://www.8btc.com" target="_blank">
                                     <img src="./images/tags/babite.jpg" alt="babite">
                                     <b>巴比特</b>
