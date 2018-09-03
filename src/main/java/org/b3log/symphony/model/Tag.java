@@ -30,9 +30,6 @@ import org.b3log.symphony.util.Symphonys;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
 
-import org.b3log.latke.logging.Level;
-import org.b3log.latke.logging.Logger;
-
 import java.util.*;
 import java.util.regex.Pattern;
 
@@ -336,7 +333,6 @@ public final class Tag {
 
         tagTitles = Strings.trimAll(tagTitles);
 
-        LOGGER.log(Level.INFO, tagTitles);
 
         // deduplication
         final Set<String> titles = new LinkedHashSet<>();
