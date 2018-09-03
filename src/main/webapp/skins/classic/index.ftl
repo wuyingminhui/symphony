@@ -142,12 +142,16 @@
                             </div>
                             <div class="metro-item" style="width:120px">
                                 <a class="preview" href="${servePath}/tag/${tag8.tagURI}">
-                                    <img src="${staticServePath}/images/tags/${tag7.tagIconPath}" alt="${tag8.tagTitle}">
+                                    <img src="${staticServePath}/images/tags/${tag8.tagIconPath}" alt="${tag8.tagTitle}">
                                     <b>${tag8.tagTitle}</b>
                                 </a>
                             </div>
                         </div>
 
+                        <div style="">
+                            合作企业
+                        </div>
+                        
                         <div class="metro-line fn-flex">
                             <div class="metro-item ma" style="width:250px;height:250px">
                                 <a class="preview" href="https://www.helloeos.com.cn" target="_blank">
