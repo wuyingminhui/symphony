@@ -385,6 +385,7 @@ public final class Tag {
             }
 
             title = normalize(title);
+            LOGGER.log(Level.INFO, title);
             tagsBuilder.append(title).append(",");
             count++;
 
