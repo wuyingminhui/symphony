@@ -385,9 +385,8 @@ public final class Tag {
             }
 
             // title = normalize(title);
-            // LOGGER.log(Level.INFO, title);
-            // tagsBuilder.append(title).append(",");
-            // count++;
+            tagsBuilder.append(title).append(",");
+            count++;
 
             if (count >= MAX_TAG_COUNT) {
                 break;
