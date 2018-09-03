@@ -800,13 +800,14 @@ public class AdminProcessor {
     public void addTag(final HTTPRequestContext context, final HttpServletRequest request, final HttpServletResponse response)
             throws Exception {
         String title = StringUtils.trim(request.getParameter(Tag.TAG_TITLE));
+        LOGGER.log(Level.INFO, title);
         try {
             if (Strings.isEmptyOrNull(title)) {
                 throw new Exception(langPropsService.get("tagsErrorLabel"));
             }
 
             title = Tag.formatTags(title);
-
+            LOGGER.log(Level.INFO, title);
             if (!Tag.containsWhiteListTags(title)) {
                 if (!Tag.TAG_TITLE_PATTERN.matcher(title).matches()) {
                     throw new Exception(langPropsService.get("tagsErrorLabel"));
